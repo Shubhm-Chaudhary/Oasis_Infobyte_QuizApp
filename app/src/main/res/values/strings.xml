@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quizy</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="geography">Geography</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="science">Science</string>
+    <string name="history">History</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+</resources>

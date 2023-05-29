@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backg">#6a5be2</color>
+    <color name="category">#e8e4fa</color>
+    <color name="correct_answer">#009688</color>
+
+    <color name="click">#ff8fa3</color>
+</resources>
